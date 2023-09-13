@@ -11,6 +11,7 @@
 *  Clash汉化 [*前往*](https://github.com/Z-Siqi/Clash-for-Windows_Chinese)
 
 ## **其他**
+*  Github汉化  [*前往*](https://github.com/maboloshi/github-chinese)
 *  apk备份  [*前往*](https://github.com/Baey666/Baey666/tree/main/Back/apk)
 *  ipa备份  [*前往*](https://github.com/Baey666/Baey666/tree/main/Back/ipa)
 *  exe备份  [*前往*](https://github.com/Baey666/Baey666/tree/main/Back/exe)
