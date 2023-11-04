@@ -1,7 +1,7 @@
 <img src="https://count.getloli.com/get/@:Daey886" alt=":moebooru" />
 
 ## **博客：**
-*  我的博客  [*前往*](https://www.baey.xyz)
+*  我的博客  [*前往*](https://www.baey.top)
 *  博客搭建教程   [*前往*](https://docs.tangly1024.com/about)
 
 ## **去广告工具：**
