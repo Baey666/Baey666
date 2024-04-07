@@ -1,4 +1,4 @@
-<img src="https://count.getloli.com/get/@:Daey886" alt=":moebooru" />
+<img src="https://count.getloli.com/get/@:Daey886" alt=":asoul" />
 
 ## **博客：**
 *  我的博客  [*前往*](https://www.baey.top)
